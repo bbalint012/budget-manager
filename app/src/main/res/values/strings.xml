@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Budget Manager</string>
+
+    <string name="dashboard_toolbar_title">Dashboard</string>
+    <string name="wallets">Wallets</string>
+    <string name="add_wallet">Add Wallet</string>
+    <string name="connect_bank">Connect To Bank</string>
 </resources>
